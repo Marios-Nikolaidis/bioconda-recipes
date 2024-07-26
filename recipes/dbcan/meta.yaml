@@ -48,6 +48,7 @@ requirements:
     - matplotlib-base
     - session-info
     - blast
+    - pyhmmer
 
 test:
   imports:
